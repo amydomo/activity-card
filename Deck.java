@@ -1,4 +1,4 @@
-package carddeck;
+package CardDeck;
 
 public interface Deck {
 

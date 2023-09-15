@@ -1,4 +1,4 @@
-package carddeck;
+package CardDeck;
 
 public enum Suit {
 
