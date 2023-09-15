@@ -1,4 +1,4 @@
-package CardDeck;
+package carddeck;
 
 import java.util.Collections;
 import java.util.List;
